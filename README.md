@@ -3,7 +3,7 @@ Tutta la documentazione è disponibile all'indirizzo di OpenAI: https://platform
 
 Prima di eseguire il codice bisogna installare
 
-pip install openai
+'pip install openai'
 
 Per ottenere la Chiave per utilizzare l'API bisogna accedere qui:https://platform.openai.com/account/api-keys
 
